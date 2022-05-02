@@ -1,0 +1,4 @@
+﻿  DiningPhilosophers.cpp
+C:\Users\tiefi\source\repos\DiningPhilosophers\DiningPhilosophers.cpp(161): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tiefi\source\repos\DiningPhilosophers\DiningPhilosophers.cpp(80): warning C4715: 'Main::getP': not all control paths return a value
+  DiningPhilosophers.vcxproj -> C:\Users\tiefi\source\repos\DiningPhilosophers\x64\Debug\DiningPhilosophers.exe
